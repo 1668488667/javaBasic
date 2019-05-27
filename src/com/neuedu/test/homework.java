@@ -93,16 +93,23 @@ public class homework {
 //        }else {
 //            System.out.println(year+"是平年");
 //        }
+        
+        
 
-//        编写程序，输入一个字符，判断它是否为小写字母，如果是，将它转换成大写字母，否则，不转换。
+//        编写程序，输入一个字符，判断它是否为小写字母，如果是，将它转换成大写字母，否则，不转换
+//        Scanner input = new Scanner(System.in);
+//        String data = input.next();
+//        char[] c = data.toCharArray();
+//        if (c[0]>=97&&c[0]<=122){
+//            char result = (char)(c[0]-32);
+//            System.out.println(result);
+//        }else if (c[0]>=65&&c[0]<=90){
+//            System.out.println(data);
+//        }else {
+//            System.out.println("不是英文字母，请重新输入！！！");
+//        }
 
-
-
-
-
-
-
-
+        
 //        用 while 循环，计算 1~200 之间所有 3 的倍数之和。
 //        int sum = 0;
 //        for (int i=1;i<=200;i++){
